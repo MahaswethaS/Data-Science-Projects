@@ -1,6 +1,6 @@
 # Customer Rating Analysis Project Overview
 
-This project explores customer satisfaction across **14 product categories** from an e-commerce (Flipkart) dataset hosted on Kaggle.  
+This project explores customer satisfaction across **14 product categories** from an e-commerce (Flipkart) on Kaggle dataset.
 The analysis aims to determine whether differences in average product ratings are **statistically significant**, using robust tests that account for **unequal variances** and **sample sizes**.
 
 ---
