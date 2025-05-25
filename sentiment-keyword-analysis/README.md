@@ -25,7 +25,7 @@ By combining sentiment analysis with keyword extraction, we identify which produ
   - **Sentiment distribution**
   - **Net sentiment score** per category
 
-> 📊 Output Files:
+> Output Files:
 - `flipkart_sentiment_per_review.csv`  
 - `sentiment_counts_by_category.csv`
 
