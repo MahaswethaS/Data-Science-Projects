@@ -1,4 +1,4 @@
-# Product Review Sentiment & Keyword Analysis  
+# Product Review : Sentiment Analysis & Keyword Extraction
 
 This project dives into Flipkart product reviews ( taken from Kaggle) to extract meaningful customer insights.
 By combining sentiment analysis with keyword extraction, we identify which product categories are *loved* by users — and which ones *need attention* — based on their feedback.
